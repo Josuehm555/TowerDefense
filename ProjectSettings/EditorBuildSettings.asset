@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/GameFlow/TowerDefensePrototype/Scenes/Controls.unity
     guid: a56bfafd9acb29140baaf2c07ec1ae7f
   - enabled: 1
-    path: Assets/GameFlow/TowerDefensePrototype/Scenes/TowerDefense.unity
+    path: Assets/GameFlow/TowerDefensePrototype/Scenes/Nivel1.unity
     guid: 9b66ecf6a34484142bc472544280b11a
   m_configObjects: {}
