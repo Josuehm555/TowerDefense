@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GameFlow/TowerDefensePrototype/Scenes/Intro.unity
-    guid: c4297469dc347e1448bc3a35cc0fed2d
-  - enabled: 1
     path: Assets/GameFlow/TowerDefensePrototype/Scenes/InitialMenu.unity
     guid: 1cb2cc4e5c676784c8f26e69aa1d5fa7
+  - enabled: 1
+    path: Assets/GameFlow/TowerDefensePrototype/Scenes/Intro.unity
+    guid: c4297469dc347e1448bc3a35cc0fed2d
   - enabled: 1
     path: Assets/GameFlow/TowerDefensePrototype/Scenes/Controls.unity
     guid: a56bfafd9acb29140baaf2c07ec1ae7f
